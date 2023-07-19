@@ -49,7 +49,7 @@ Exploratory data analysis is a vital step in a data science project or process a
 - Wheel drive to price: Rear-wheel drive is more expensive than all-wheel and front-wheel drive.
 - Toyota produces more cars than other brands, there are more front-wheel drive cars than 4-wd and rear wd in the data set, the data consists of more sedan-type cars.
 - Cars with high horsepower are expensive.
-- 
+  
 
 
 
